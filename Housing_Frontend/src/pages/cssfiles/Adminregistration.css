@@ -1,0 +1,108 @@
+.containers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #eceefc;
+    width: 100%;
+  }
+  
+  .registration-form {
+    display: flex;
+    /* width: 600px; */
+    background-color: #fff;
+    box-shadow: 2px 2px 6px rgba(95, 95, 95, 0.4);
+    border-radius: 30px;
+  }
+  
+  .image-containers {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+    background-color: #ffffff;
+    border-radius: 30px 0 0 30px;
+    box-shadow: 2px 2px 6px rgba(95, 95, 95, 0.1);
+
+
+  }
+  
+  .image-containers img {
+    width: 500px;
+    height: 500px;
+  }
+  
+  .form-containers {
+    flex: 1;
+    padding: 30px;
+    /* background-image: url(https://media.istockphoto.com/id/187531420/photo/tiles-backgrounds.jpg?s=2048x2048&w=is&k=20&c=Lqg6D50zDXyF6OmLHkcocvs5AcafGdiUHMTPpSS0MR0=); */
+  }
+  
+  h2 {
+    margin-top: 30p;
+    margin-bottom: 60px;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 500;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-bottom: 10px;
+  }
+  
+  .but {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #4285f4;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #3367d6;
+  }
+  
+  button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  .password-input {
+    position: relative;
+  }
+  
+  .password-input input[type='checkbox'] {
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    /* transform: translateY(10000%); */
+    margin-top: 19px;
+    transform: translateX(-20%);
+    cursor: pointer;
+  }
+  
+  .password-input label {
+    font-size: 12px;
+  }
+  
