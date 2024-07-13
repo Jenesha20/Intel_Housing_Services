@@ -98,8 +98,8 @@ In both the `Housing_Frontend` and `Housing_Backend` directories, the following 
 
 ## Links
 
-- **Report**: [House_Communique](#)
-- **Presentation**: [House_Summary](#)
+- **Report**: [House_Communique](https://github.com/Jenesha20/Intel_Housing_Services/tree/main/House_Communique)
+- **Presentation**: [House_Summary](https://github.com/Jenesha20/Intel_Housing_Services/tree/main/Housing_Summary)
 - **Figma File**: [Link to Figma File](#)
 
 ## Contributing
