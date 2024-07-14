@@ -100,7 +100,7 @@ In both the `Housing_Frontend` and `Housing_Backend` directories, the following 
 
 - **Report**: [House_Communique](https://github.com/Jenesha20/Intel_Housing_Services/tree/main/House_Communique)
 - **Presentation**: [House_Summary](https://github.com/Jenesha20/Intel_Housing_Services/tree/main/Housing_Summary)
-- **Figma File**: [Link to Figma File](#)
+- **Figma File**: [Prototype](https://www.figma.com/proto/KoXKX1D74DPcjn3ZKAJKxS/Household-services?node-id=1-3&t=pa19Jb3eHU82lkWu-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A3&show-proto-sidebar=1)
 
 ## Contributing
 
